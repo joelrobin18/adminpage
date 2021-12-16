@@ -1,0 +1,62 @@
+{
+  "details": [
+    {
+      "id": "1",
+      "Name": "Joshua",
+      "Email": "joshua@gmail.com",
+      "OTP_status": "false",
+      "Phone": "1234567890",
+      "Address": "House, Place, District",
+      "District": "Kottayam",
+      "slot": "2021-12-24"
+    },
+    {
+      "id": "2",
+      "Name": "Sivin",
+      "Email": "Sivin@gmail.com",
+      "OTP_status": "true",
+      "Phone": "1234578890",
+      "Address": "House, Place, District",
+      "District": "Kannur",
+      "slot": "2021-12-25"
+    },
+    {
+      "id": "3",
+      "Name": "Josh",
+      "Email": "josh@gmail.com",
+      "OTP_status": "true",
+      "Phone": "1234787890",
+      "Address": "House, Place, District",
+      "District": "Kozhikode",
+      "slot": "2021-12-25"
+    },
+    {
+      "id": "4",
+      "Name": "Johan",
+      "Email": "johan@gmail.com",
+      "OTP_status": "true",
+      "Phone": "1234561190",
+      "Address": "House, Place, District",
+      "District": "Ernakulam",
+      "slot": "2021-12-24"
+    },
+    {
+      "id": "5",
+      "Name": "Paul",
+      "Email": "paul@gmail.com",
+      "OTP_status": "true",
+      "Phone": "9876543210",
+      "Address": "House, Place, District",
+      "District": "Kollam",
+      "slot": "2021-12-26"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Club Math",
+      "password": "clubmathlove",
+      "email": "clubmath@love.in"
+    }
+  ]
+}
